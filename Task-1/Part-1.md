@@ -18,7 +18,7 @@ git config --global user.email"Jatin@gmail.com"
 ```
 
 ### 2.View your Git configuration:
-We can check our confrig uration by using the following command:
+We can check our confriguration by using the following command:
 ```
 git config --list
 ```

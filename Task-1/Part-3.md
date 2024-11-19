@@ -23,7 +23,7 @@ git stash list
 git stash Apply
 ```
 ### 5.Drop the stash after applying:
-Git stash drop:- This command is use to delete any particular stash.
+Git stash drop:- This command removes the most recent stash from the stash list:
 ```
 git stash drop
 ```
